@@ -1,12 +1,3 @@
-1.
-   Monday
+*   Text
 
-   fgh
-
-   ```
-   code
-   ```
-2.
-Tuesday
-3.
-Wednesday
+    Text

@@ -1,7 +1,5 @@
-* Text
+1. a
 
-    * Text
+  2. b
 
-* Text
-
-   * Text
+    3. c

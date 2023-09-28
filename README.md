@@ -1,3 +1,5 @@
-![sample code output](https://raw.githubusercontent.com/wiki/ocornut/imgui/web/v160/code_sample_02_jp.png)
-<br>
-_(settings: Dark style (left), Light style (right) / Font: NotoSansCJKjp-Medium, 20px / Rounding: 5)_
+**text* text*
+
+**text * text*
+
+**text *text*

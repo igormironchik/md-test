@@ -19,3 +19,5 @@
 *text **text*
 
 foo**foo*
+
+**foo*

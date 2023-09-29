@@ -17,3 +17,5 @@
 *text**text*
 
 *text **text*
+
+foo**foo*

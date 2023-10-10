@@ -1,17 +1,3 @@
-- list
-  - list
-    -
-      list
-
-
-<!-- -->
-
-- list
-  - list
-    -
-
-<!-- -->
-
-- list
-  - list
-    - list
+*foo
+*
+  foo

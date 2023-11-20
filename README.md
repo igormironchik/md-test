@@ -1,3 +1,1 @@
-<br><pre
-<b>To get started, [view our webpage](https://cockatrice.github.io/)</b><br>
-</pre><br>
+* <a id="user-content-install-pypi" class="anchor" href="#install-pypi">From PyPI 🔗</a> (recommended)

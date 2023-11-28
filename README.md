@@ -1,11 +1,3 @@
-<a href="www.google.com">
-Google
-</a>
--
-
-<a href="www.google.com">Google</a>
--
-
 <!-- c -->
 -
 
@@ -26,9 +18,3 @@ text
 <?php
 ?>
 -
-
-
-Text
-| Column 1 |
-| -------- |
-===

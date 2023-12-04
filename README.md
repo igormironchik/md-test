@@ -1,4 +1,5 @@
-`code
+<?php
 | table` |
 | --- |
 | data |
+?>

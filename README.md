@@ -1,5 +1,5 @@
-<?php
-| table` |
+$$
+| table |
 | --- |
 | data |
-?>
+$$

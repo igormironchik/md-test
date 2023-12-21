@@ -1,11 +1,13 @@
-- list
+1. a
 
-    code
+  2. b
+
+    3. c
 
 <!-- -->
 
-- list
-  - list
-    - list
+1. a
+
+  2. b
 
     code
